@@ -1,5 +1,5 @@
 # Air-Hockey-Game
-< br />
+<br />
 •	Simulated a robotic system to play air-hockey game that required Robot I to behave autonomously while Robot II is controlled by a human remotely using JAVA programming <br />
 •	Set up a surveillance camera taken five pictures per second to simulate a tracking system, and applied image processing technique (content-based image retrieval) to extract the location of robots and ball based on HSV database, as well as utilized spatial noise reduction to preprocess images to achieve better matching <br />
 •	Designed an algorithm for Robot I to find the shortest way to meet with the ball if the ball does not reach the goal, otherwise updated the Graph User Interface (GUI) implemented by JAVA SWING <br />
